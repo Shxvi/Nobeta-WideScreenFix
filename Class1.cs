@@ -1,12 +1,12 @@
 ﻿using BepInEx;
 using BepInEx.Unity.IL2CPP;
 using UnityEngine;
-using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 namespace NobetaWidescreenFix
 {
-    [BepInPlugin("com.widescreen.nobeta", "Nobeta Widescreen Fix", "1.2.0")]
+    [BepInPlugin("com.widescreen.nobeta", "Nobeta Widescreen Fix", "1.0.0")]
     public class Plugin : BasePlugin
     {
         public override void Load()
