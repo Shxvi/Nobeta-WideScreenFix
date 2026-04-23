@@ -1,4 +1,4 @@
-# Little Witch Nobeta - Widescreen & Resolution Fix
+# Little Witch Nobeta - Widescreen Fix
 
 A BepInEx plugin for **Little Witch Nobeta** that forces the game to run at your monitor's native resolution and fixes the aspect ratio for 16:10, 21:9, and other non-16:9 displays.
 
